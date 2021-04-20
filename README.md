@@ -15,4 +15,10 @@ http://dropthebit.club/
 ## 2. 로비화면
 ![스크린샷 2021-04-20 오후 2 22 19](https://user-images.githubusercontent.com/72585287/115341580-d51c9380-a1e3-11eb-8a5c-8a409829aa33.png)
 
+## 3. 게임화면
+<img width="1005" alt="스크린샷 2021-04-20 오후 2 23 34" src="https://user-images.githubusercontent.com/72585287/115341696-04330500-a1e4-11eb-80b4-6f2ef61f4b73.png">
 
+
+
+# 소개
+![스크린샷 2021-04-20 오후 2 26 02](https://user-images.githubusercontent.com/72585287/115341910-5bd17080-a1e4-11eb-86e0-b33bad5eb354.png)
